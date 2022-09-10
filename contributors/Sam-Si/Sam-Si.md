@@ -2,5 +2,5 @@
 name: Sam Si
 github_user_name: Sam-Si
 url_of_github_issue: https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/379
-your_favourite_programming_language: Python
+your_favourite_programming_language: Python and Kotlin
 ---
